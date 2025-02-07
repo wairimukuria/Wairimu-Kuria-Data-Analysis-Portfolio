@@ -21,7 +21,7 @@ Statistical Analysis: Hypothesis testing, confidence intervals
 1. 📈 **[London Real Estate Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmUwZDE1NTctZDM5Zi00OTQ4LTgwZGQtNTY2NDg5YWE3MWMzIiwidCI6IjgyY2JiMzQ1LTNiMDYtNDBlYy1iOTI2LTEzNmI0ZTk3NzI3ZiJ9)**
    - Exploratory Data Analysis (EDA), trend forecasting, and investment insights.
    - Tools: Python (Pandas, Matplotlib), PowerBI, MySQL.
-2. 📈 **[Shopping trends analysis](https://github.com/your-username/london-real-estate)**
+2. 📈 **[Shopping trends analysis](https://lookerstudio.google.com/reporting/1d281069-2ca4-4d05-83ca-624f634ef860)**
    - Exploratory Data Analysis (EDA), trend forecasting, and investment insights.
    - Tools: Python (Pandas, Matplotlib), PowerBI, MySQL.
 3.  📊 **[U.S County Health Analysis Data Visualization Dashboard](https://github.com/your-username/data-viz-dashboard)**
