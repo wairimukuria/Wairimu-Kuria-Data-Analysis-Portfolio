@@ -21,9 +21,9 @@ Statistical Analysis: Hypothesis testing, confidence intervals
 1. 📈 **[London Real Estate Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmUwZDE1NTctZDM5Zi00OTQ4LTgwZGQtNTY2NDg5YWE3MWMzIiwidCI6IjgyY2JiMzQ1LTNiMDYtNDBlYy1iOTI2LTEzNmI0ZTk3NzI3ZiJ9)**
    - Exploratory Data Analysis (EDA), trend forecasting, and investment insights.
    - Tools: Python (Pandas, Matplotlib), PowerBI, MySQL.
-2. 📈 **[Shopping trends analysis](https://lookerstudio.google.com/reporting/1d281069-2ca4-4d05-83ca-624f634ef860)**
+2. 📈 **[Shopping trends analysis](https://lookerstudio.google.com/s/kFte4xIe66I)**
    - Exploratory Data Analysis (EDA), trend forecasting, and investment insights.
-   - Tools: Python (Pandas, Matplotlib), PowerBI, MySQL.
+   - Tools: Python (Pandas, Matplotlib), LookerStudio, Google Colab notebook.
 3.  📊 **[U.S County Health Analysis Data Visualization Dashboard](https://lookerstudio.google.com/reporting/6b2edf05-66eb-414a-8f7e-fd782792aedd)**
    - Created interactive dashboards using PowerBI and Looker Studio.
 4. 📊 **[Airport Analysis Data Visualization Dashboard](https://github.com/your-username/data-viz-dashboard)**
