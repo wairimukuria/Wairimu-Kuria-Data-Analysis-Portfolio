@@ -33,5 +33,5 @@ Statistical Analysis: Hypothesis testing, confidence intervals
    - Created interactive dashboards using Looker Studio.
 🔗 **Connect with Me**
 - 📩 Email: mimukuria@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/wairimukuria)
+- 💼 LinkedIn: [Your LinkedIn](-)
 
