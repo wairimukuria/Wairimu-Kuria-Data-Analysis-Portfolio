@@ -28,7 +28,7 @@ Statistical Analysis: Hypothesis testing, confidence intervals
    - Created interactive dashboards using PowerBI and Looker Studio.
 4. 📊 **[Airport Analysis Data Visualization Dashboard](https://github.com/your-username/data-viz-dashboard)**
    - Created interactive dashboards using PowerBI and Looker Studio.
-5. 📊 **[Global Data Science Job Analysis Report Visualization Dashboard](https://lookerstudio.google.com/reporting/ce7f906c-efd5-4e86-9333-7a95072064b3)**
+5. 📊 **[Global Data Science Job Analysis Report Visualization Dashboard](https://lookerstudio.google.com/s/iMOSoGtAu9I)**
    - Exploratory Data Analysis (EDA), trend forecasting, and analysis insights.
    - Created interactive dashboards using Looker Studio.
 🔗 **Connect with Me**
