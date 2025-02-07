@@ -4,7 +4,7 @@
 Welcome to My Data Analysis Portfolio!
 This repository showcases my expertise in data analytics, visualization, and business insights using tools like Python, PowerBI, SQL, and Looker Studio. The projects here highlight my ability to collect, preprocess, analyze, and visualize complex datasets to uncover meaningful patterns and trends.
 
-###🛠**Skills & Tools**
+### Skills & Tools
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
 Data Visualization: PowerBI, Looker Studio, Matplotlib, Seaborn
 Databases: MySQL, SQL queries, data extraction
@@ -28,7 +28,9 @@ Statistical Analysis: Hypothesis testing, confidence intervals
    - Created interactive dashboards using PowerBI and Looker Studio.
 4. 📊 **[Airport Analysis Data Visualization Dashboard](https://github.com/your-username/data-viz-dashboard)**
    - Created interactive dashboards using PowerBI and Looker Studio.
-
+5. 📊 **[Global Data Science Job Analysis Report Visualization Dashboard](https://lookerstudio.google.com/reporting/ce7f906c-efd5-4e86-9333-7a95072064b3)**
+   - Exploratory Data Analysis (EDA), trend forecasting, and analysis insights.
+   - Created interactive dashboards using Looker Studio.
 🔗 **Connect with Me**
 - 📩 Email: mimukuria@gmail.com
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/wairimukuria)
