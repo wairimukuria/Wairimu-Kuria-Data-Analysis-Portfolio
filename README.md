@@ -18,7 +18,7 @@ Statistical Analysis: Hypothesis testing, confidence intervals
 - 🏡 Currently analyzing **London Property Prices** for trends and investment insights.
 
 ### Projects
-1. 📈 **[London Real Estate Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmUwZDE1NTctZDM5Zi00OTQ4LTgwZGQtNTY2NDg5YWE3MWMzIiwidCI6IjgyY2JiMzQ1LTNiMDYtNDBlYy1iOTI2LTEzNmI0ZTk3NzI3ZiJ9)**
+1. 📈 **[London Real Estate Analysis](https://app.powerbi.com/view?r=eyJrIjoiNTk3NmNmZjktMWI4OC00ODI4LWJiYmEtMjNmNDc5MjU5MjgwIiwidCI6IjgyY2JiMzQ1LTNiMDYtNDBlYy1iOTI2LTEzNmI0ZTk3NzI3ZiJ9)**
    - Exploratory Data Analysis (EDA), trend forecasting, and investment insights.
    - Tools: Python (Pandas, Matplotlib), PowerBI, MySQL.
 2. 📈 **[Shopping trends analysis](https://lookerstudio.google.com/s/kFte4xIe66I)**
