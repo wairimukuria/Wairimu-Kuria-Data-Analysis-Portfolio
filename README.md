@@ -41,7 +41,7 @@ Welcome to My Data Analysis Portfolio! This repository showcases my expertise in
 
 ### Getting Started
 To replicate any of these projects locally:
-1. Clone this repository: `git clone https://github.com/your-username/repository.git`
+1. Clone this repository: `git clone https://github.com/WairimuKuria/repository.git`
 2. Install dependencies (if any): `pip install -r requirements.txt`
 3. Follow the instructions in the project documentation to run the analyses and view the dashboards.
 
